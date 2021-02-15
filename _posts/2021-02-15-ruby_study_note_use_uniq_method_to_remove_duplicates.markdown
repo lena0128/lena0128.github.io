@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Ruby Study Note: Use #uniq method to Remove Duplicates"
+title:      "Ruby Study Note: Use the uniq method to Remove Duplicates"
 date:       2021-02-15 01:26:18 -0500
 permalink:  ruby_study_note_use_uniq_method_to_remove_duplicates
 ---
@@ -8,7 +8,7 @@ permalink:  ruby_study_note_use_uniq_method_to_remove_duplicates
 
 ***uniq() ***is an array class method which returns a new array by removing duplicate values in the array.
 
-**What does the #uniq method do?**
+**What does the uniq method do?**
 * It will remove all the duplicate values in an array.
 * It will return a NEW array with unique values. 
 * This mothed will NOT change the original array.
@@ -27,9 +27,9 @@ numbers
 ```
 
 
-**How to Use #uniq Method with A Block**
+**How to Use the uniq Method with A Block**
 
-If a block is given, the #uniq method will use the return value of the block for comparison. It compares values using their hash and eql? methods for efficiency. 
+If a block is given, the #uniq will use the return value of the block for comparison. It compares values using their hash and eql? methods for efficiency. 
 
 The syntax is: **`uniq { |item| #your code } → new_ary`**
 
