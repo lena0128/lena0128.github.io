@@ -6,7 +6,7 @@ email: lenahou2013@gmail.com
 copyright_name: Lena
 description: > # this means to ignore newlines until "baseurl:"
   A Ruby Beginner's Study Notes
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://lena0128.github.io/" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  lena0128
 
