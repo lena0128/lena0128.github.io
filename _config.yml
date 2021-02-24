@@ -1,11 +1,11 @@
 # Site settings
 author: Lena
-title: Lena's Blog
+title: A Blog
 header-img: img/home-bg.png
 email: lenahou2013@gmail.com
 copyright_name: Lena
 description: > # this means to ignore newlines until "baseurl:"
-  A Ruby Beginner's Study Notes
+  Study Notes
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  lena0128
