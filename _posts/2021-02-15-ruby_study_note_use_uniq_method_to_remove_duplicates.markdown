@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Ruby Study Note: Use the uniq method to Remove Duplicates"
+title:      "Ruby Study Note Use the uniq method to Remove Duplicates"
 date:       2021-02-15 01:26:18 -0500
 permalink:  ruby_study_note_use_uniq_method_to_remove_duplicates
 ---
